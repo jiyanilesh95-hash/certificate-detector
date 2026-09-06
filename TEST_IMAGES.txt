@@ -1,0 +1,53 @@
+Certificate Detector - Test Images
+==================================
+
+You can test the Certificate Detector with these types of images:
+
+1. GENUINE CERTIFICATE IMAGE
+   - Save a real certificate or diploma
+   - Take a photo of it
+   - Upload to the website
+
+2. ANY IMAGE
+   - The detector will analyze:
+     * Image quality
+     * Text presence
+     * Color distribution
+     * Edge detection
+   
+3. WHERE TO GET TEST IMAGES
+   - Your own certificates/diplomas
+   - Screenshots of online certificates
+   - Photos from the internet
+   - Any image in JPG/PNG format
+
+REQUIREMENTS
+============
+- Image format: JPG, JPEG, PNG, GIF, or BMP
+- Maximum size: 10MB
+- Minimum size: 100x100 pixels
+
+TIPS FOR BEST RESULTS
+====================
+1. Use clear, well-lit photos
+2. Avoid blurry images
+3. Capture entire certificate
+4. Good resolution preferred
+
+SUPPORTED FORMATS
+=================
+✓ JPG / JPEG
+✓ PNG
+✓ GIF
+✓ BMP
+
+HOW TO USE
+==========
+1. Prepare an image (certificate, diploma, or any image)
+2. Open http://localhost:5000
+3. Click upload area
+4. Select your image
+5. Click "Analyze Certificate"
+6. View results instantly
+
+ENJOY! 🎓
